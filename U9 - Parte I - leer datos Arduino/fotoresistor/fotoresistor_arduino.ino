@@ -2,7 +2,7 @@ int led = 6;
 int foto = A0;
 
 void setup() {
-pinMode(6,OUTPUT);
+pinMode(led,OUTPUT);
 Serial.begin(9600);
 delay(1000); // segundo
 }
