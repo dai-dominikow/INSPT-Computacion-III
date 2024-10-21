@@ -3,7 +3,6 @@ int fotores = A0;
 int dato; 
 int datomap;
 
-
 void setup() {
 pinMode(led,OUTPUT);
 Serial.begin(9600);
