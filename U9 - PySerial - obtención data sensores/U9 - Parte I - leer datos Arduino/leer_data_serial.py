@@ -42,7 +42,6 @@ def sensor_data(arduino):
 def save_data(arduino,tiempo, ruta_archivo):
     #inicializamos el array
     datos = np.array([])
-
     #ahora voy a setear el tiempo final de ejecución, cosa que corte en el tiempo que establecí en la variable TIEMPO_EJECUCIÓN
     t_end = time.time() + tiempo  
 
