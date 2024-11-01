@@ -14,7 +14,6 @@ import os
 os.system('pip install PySerial')
 
 import serial #para leer la data del arduino uno
-import serial.tools.list_ports as lp
 import numpy as np
 import time
 import pandas as pd
