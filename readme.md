@@ -6,11 +6,10 @@ Espero que disfruten la cursada!.<br><br>
     - Unidad 1 - Intro: Python básico
     - Unidad 2 - Numpy y MatPlotLib
     - Unidad 3 - Análisis de datos ( introducción a Pandas )
-    - Unidad 4 - Métodos numéricos: Derivadas, integrales y diferenciales
-    - Unidad 5 - Simulaciones dinámicas
-    - Unidad 6 - Números Pseudo-aleatorios y métodos de MonteCarlo
-    - Unidad 7 - Procesamiento de Señales: Transformada rápida de Fourier y convoluciones.
-    - Unidad 8 - Arduino
-    - Unidad 9 - PySerial
+    - Unidad 4 - Métodos numéricos: Derivadas, integrales y diferenciales - Simulaciones dinámicas
+    - Unidad 5 - Números Pseudo-aleatorios y métodos de MonteCarlo
+    - Unidad 6 - Procesamiento de Señales: Transformada rápida de Fourier y convoluciones.
+    - Unidad 7 - Arduino
+    - Unidad 8 - PySerial
 
 Daiana Dominikow.
