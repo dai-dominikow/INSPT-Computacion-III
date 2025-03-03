@@ -1,7 +1,7 @@
 ##########################################################################################################
-#    Unidad 9: PySerial
+#    Unidad 8: PySerial
 # Autor: Daiana Dominikow
-# Computación 3 - Comisión 2024 - INSPT UTN
+# Computación 3  - INSPT UTN
 ##########################################################################################################
 # Finalmente así es cómo debería quedarles este extremadamente simplificado código para levantar la 
 # información de un sensor previamente programado en Arduino y conectado por Serial para almacenarlo 
