@@ -4,9 +4,9 @@ El programa de la materia utiliza un amalgama de física computacional, simulaci
 Espero que disfruten la cursada!.<br><br>
 
     - Unidad 1 - Intro: Python básico
-    - Unidad 2 - Numpy y MatPlotLib
-    - Unidad 3 - Análisis de datos ( introducción a Pandas )
-    - Unidad 4 - Métodos numéricos: Derivadas, integrales y diferenciales - Simulaciones dinámicas
+    - Unidad 2 - Análisis de datos ( introducción a Numpy, Matplotlib y Pandas )
+    - Unidad 3 - Métodos numéricos: Derivadas, integrales 
+    - Unidad 4 - Métodos numéricos: diferenciales - Simulaciones dinámicas
     - Unidad 5 - Números Pseudo-aleatorios y métodos de MonteCarlo
     - Unidad 6 - Procesamiento de Señales: Transformada rápida de Fourier y convoluciones.
     - Unidad 7 - Arduino
