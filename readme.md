@@ -10,6 +10,5 @@ Espero que disfruten la cursada!.<br><br>
     - Unidad 5 - Números Pseudo-aleatorios y métodos de MonteCarlo
     - Unidad 6 - Procesamiento de Señales: Transformada rápida de Fourier y convoluciones.
     - Unidad 7 - Arduino
-    - Unidad 8 - PySerial
 
 Daiana Dominikow.
