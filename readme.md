@@ -5,7 +5,7 @@ Espero que disfruten la cursada!.<br><br>
 
     - Unidad 1 - Intro: Python básico
     - Unidad 2 - Análisis de datos ( introducción a Numpy, Matplotlib )
-    - Unidad 3 - Métodos numéricos: Derivadas, integrales 
+    - Unidad 3 - Métodos numéricos: Derivadas ~~, integrales ~~
     - Unidad 4 - Métodos numéricos: diferenciales - Simulaciones dinámicas
     - Unidad 5 - Números Pseudo-aleatorios y métodos de MonteCarlo
     - Unidad 6 - Procesamiento de Señales: Transformada rápida de Fourier y convoluciones.
